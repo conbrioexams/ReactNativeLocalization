@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/stefalda/ReactNativeLocalization",
   "dependencies": {
-    "react-localization": "^1.0.14"
+    "react-localization": "github:conbrioexams/react-localization#e2bf96a660b9da27cc2b6821f28943cc3da19d34"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
